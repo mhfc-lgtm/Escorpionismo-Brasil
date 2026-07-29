@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Se você usar este código, por favor cite-o conforme abaixo."
+title: "Escorpionismo-Brasil: códigos de análise"
+abstract: >-
+  Funções em R utilizadas na coleta, no processamento e na análise temporal,
+  espacial, sociodemográfica e clínica dos acidentes escorpiônicos notificados
+  no Brasil (SINAN/DATASUS), 2016–2025.
+type: software
+authors:
+  # >>> (opcional) adicione seu ORCID descomentando a linha abaixo <<<
+  - given-names: "Marcelo H. F."
+    family-names: "Carvalho"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    email: "mhfc@academico.ufpb.br"
+    affiliation: "Universidade Federal da Paraíba (UFPB)"
+version: "1.0.0"
+date-released: "2026-07-29"
+license: MIT
+repository-code: "https://github.com/mhfc-lgtm/Escorpionismo-Brasil"
+doi: "10.5281/zenodo.21684462"
+keywords:
+  - escorpionismo
+  - "picadas de escorpião"
+  - SINAN
+  - "análise espacial"
+  - "séries temporais"
+  - "saúde pública"
+  - R
