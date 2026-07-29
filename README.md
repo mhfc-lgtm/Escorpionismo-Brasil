@@ -1,5 +1,8 @@
 # Código de análise — Escorpionismo no Brasil, 2016–2025
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21684462.svg)](https://doi.org/10.5281/zenodo.21684462)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Repositório de **transparência e reprodutibilidade** do artigo *"Escorpionismo no
 Brasil, 2016–2025: análise temporal, espacial, sociodemográfica e clínica"*
 (estudo ecológico de série temporal e espacial, dados do SINAN/DATASUS e IBGE).
@@ -128,6 +131,13 @@ deste repositório para manter a correspondência direta com os métodos descrit
 ## Licença
 
 Distribuído sob a **Licença MIT** — ver [`LICENSE`](LICENSE). Uso, adaptação e
-redistribuição são livres, mediante citação dos autores. *(Edite a linha
-`Copyright (c) 2026 <NOME DOS AUTORES DO ARTIGO>` do arquivo `LICENSE` com o nome
-completo dos autores antes de publicar a versão final.)*
+redistribuição são livres, mediante citação dos autores.
+
+## Como citar
+
+Este repositório está arquivado no Zenodo com DOI permanente. Cite como:
+
+> Carvalho MHF. Escorpionismo-Brasil: códigos de análise (v1.0.0) [software].
+> Zenodo; 2026. https://doi.org/10.5281/zenodo.21684462
+
+(O arquivo [`CITATION.cff`](CITATION.cff) habilita o botão *"Cite this repository"* do GitHub.)
