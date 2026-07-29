@@ -127,6 +127,7 @@ deste repositório para manter a correspondência direta com os métodos descrit
 
 ## Licença
 
-O código de análise é de autoria dos autores do artigo. Sugere-se distribuí-lo
-sob uma licença de código aberto (ex.: **MIT** ou **GPL-3**); defina o arquivo
-`LICENSE` antes de publicar.
+Distribuído sob a **Licença MIT** — ver [`LICENSE`](LICENSE). Uso, adaptação e
+redistribuição são livres, mediante citação dos autores. *(Edite a linha
+`Copyright (c) 2026 <NOME DOS AUTORES DO ARTIGO>` do arquivo `LICENSE` com o nome
+completo dos autores antes de publicar a versão final.)*
