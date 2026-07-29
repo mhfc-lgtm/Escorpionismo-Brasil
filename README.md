@@ -27,13 +27,13 @@ que cada resultado do artigo possa ser rastreado até a função que o produziu.
 
 | Arquivo | Conteúdo |
 |---|---|
-| [`R/01_constantes_e_populacao.R`](R/01_constantes_e_populacao.R) | Constantes (UFs, regiões, faixas etárias) e leitura das estimativas populacionais do IBGE (denominador das taxas). |
-| [`R/02_coleta_e_classificacao.R`](R/02_coleta_e_classificacao.R) | Coleta dos microdados do SINAN e classificação das variáveis (idade, sexo, raça/cor, gravidade, evolução). |
-| [`R/03_series_temporais.R`](R/03_series_temporais.R) | Montagem das séries mensais de contagens/taxas por grupo. |
-| [`R/04_regressao_temporal_e_proporcoes.R`](R/04_regressao_temporal_e_proporcoes.R) | Núcleo estatístico: Poisson HAC (IRR), sazonalidade, logística (OR), IC de Wilson e tabela Brasil→regiões→estados. |
-| [`R/05_analise_espacial.R`](R/05_analise_espacial.R) | Bayes empírico, pesos Queen, Moran global/local (LISA), Getis-Ord Gi*, densidade de Kernel e scan espacial. |
-| [`R/06_graficos_e_mapas.R`](R/06_graficos_e_mapas.R) | Geração das figuras e mapas (ggplot2, leaflet, sf). |
-| [`R/07_selecao_estados.R`](R/07_selecao_estados.R) | Utilitários de escopo geográfico (região ↔ UFs). |
+| [`01_constantes_e_populacao.R`](01_constantes_e_populacao.R) | Constantes (UFs, regiões, faixas etárias) e leitura das estimativas populacionais do IBGE (denominador das taxas). |
+| [`02_coleta_e_classificacao.R`](02_coleta_e_classificacao.R) | Coleta dos microdados do SINAN e classificação das variáveis (idade, sexo, raça/cor, gravidade, evolução). |
+| [`03_series_temporais.R`](03_series_temporais.R) | Montagem das séries mensais de contagens/taxas por grupo. |
+| [`04_regressao_temporal_e_proporcoes.R`](04_regressao_temporal_e_proporcoes.R) | Núcleo estatístico: Poisson HAC (IRR), sazonalidade, logística (OR), IC de Wilson e tabela Brasil→regiões→estados. |
+| [`05_analise_espacial.R`](05_analise_espacial.R) | Bayes empírico, pesos Queen, Moran global/local (LISA), Getis-Ord Gi*, densidade de Kernel e scan espacial. |
+| [`06_graficos_e_mapas.R`](06_graficos_e_mapas.R) | Geração das figuras e mapas (ggplot2, leaflet, sf). |
+| [`07_selecao_estados.R`](07_selecao_estados.R) | Utilitários de escopo geográfico (região ↔ UFs). |
 
 ---
 
